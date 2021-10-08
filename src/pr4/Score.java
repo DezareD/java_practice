@@ -89,6 +89,6 @@ class Score extends JFrame {
     }
 
     public static void main(String[] args) {
-        new MatchScore().setVisible(true);
+        new Score().setVisible(true);
     }
 }
